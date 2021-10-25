@@ -430,3 +430,41 @@ section.geral{
   margin: 5px auto;
 }
 }
+
+@media screen and (width: 790px){
+
+  section.geral{
+  padding: 10px 0;
+}
+.container{
+  margin: 0 auto;
+  width: 40%;
+  height: 100%;
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.4);
+  border-radius: 25px;
+  background-color: white;
+}
+
+.p1{
+  padding: 13px 0;
+}
+
+.tt{
+  padding: 5px 0;
+  width: 100%;
+  height: 100%;
+}
+
+.grid{
+  margin: -5px auto;
+}
+
+.botao2{
+  line-height: 27px;
+}
+
+.fim{
+  margin: 5px auto;
+}
+}
+
